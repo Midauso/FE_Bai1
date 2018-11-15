@@ -1,0 +1,24 @@
+{
+  "name": "fe_bai1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midauso/FE_Bai1.git"
+  },
+  "author": "midauso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midauso/FE_Bai1/issues"
+  },
+  "homepage": "https://github.com/Midauso/FE_Bai1#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "pug": "^2.0.3",
+    "sass": "^1.15.0"
+  }
+}
